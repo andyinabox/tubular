@@ -1,4 +1,5 @@
 {
   "name": "tubular",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "main": "js/jquery.tubular.1.0.js"
 }
